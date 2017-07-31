@@ -2,7 +2,7 @@ package com.automate1;
 
 /**
  * Hello world!
- *
+ * Welcome to my new project
  */
 public class App 
 {
