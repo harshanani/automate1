@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!iiiiii" );
+        System.out.println( "Hello World! Nexus integration" );
     }
 }
