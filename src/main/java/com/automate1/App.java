@@ -11,3 +11,5 @@ public class App
         System.out.println( "Hello World! Nexus integration2" );
     }
 }
+
+select * from sonar;
